@@ -55,8 +55,8 @@ Navigate through increasingly complex mazes to reach the green exit!
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/retro-game-engine.git
-cd retro-game-engine
+git clone https://github.com/Kathitjoshi/Py-Arcade.git
+cd Py-Arcade
 ```
 
 2. Install required dependencies:
